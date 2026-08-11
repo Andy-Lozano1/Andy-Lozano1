@@ -53,7 +53,7 @@ I enjoy working with data, building applications, and continuously improving my 
 
 ## 🚀 Projects (Coming Soon)
 - 📊 Data Analysis Projects  
-- 🌐 Web Applications  
+- 🌐 Order  
 - 📈 Dashboards in Power BI  
 
 ---
